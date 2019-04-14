@@ -1,0 +1,5 @@
+log/*.log
+log/*.log.[0-9]
+*.txt
+*.DS_store
+
